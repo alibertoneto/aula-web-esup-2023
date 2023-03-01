@@ -1,6 +1,6 @@
-#Requisitos
+Requisitos
 
--Desenvolver uma página com como cabeçalho o nome da faculdade, do curso e o seu nome. O nome da faculdade em cor azul. 
+- Desenvolver uma página com como cabeçalho o nome da faculdade, do curso e o seu nome. O nome da faculdade em cor azul. 
 
 - Inserir nessa página um vídeo curto de sua preferência, com auto reprodução e repetição. 
 
