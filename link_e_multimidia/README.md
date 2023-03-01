@@ -6,4 +6,4 @@ Requisitos
 
 - A seguir, montar duas listas, a primeira com sites para você estudar ou artigos para você ler. A segunda lista com links úteis da faculdade. 
 
-- Ao fim, insirir um link para uma segunda página a ser desenvolvida com os créditos de criação da página e descrição das tecnologias aplicadas.
+- Ao fim, insirir um link para uma segunda página a ser desenvolvida com os créditos de criação da página e descrição das tecnologias aplicadas. Use uma foto sua junto ao seu perfil.
